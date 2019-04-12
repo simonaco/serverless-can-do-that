@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "sicotinrental_STORAGE": "DefaultEndpointsProtocol=https;AccountName=sicotinrental;AccountKey=EjuYyngTzsxHQsvaQ7AwHE5ynzM2dzl9SpvozpnXKWagyyNygvNFarpcS5qp45NfC7WGaDicEsq74it9o1wFtg==;EndpointSuffix=core.windows.net",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "your_key_here",
+    "DB_CONN": "your_key_here"
+  }
+}

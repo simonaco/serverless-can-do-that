@@ -1,0 +1,12 @@
+{
+  "bindings": [{
+      "name": "inputDocumentIn",
+      "type": "cosmosDB",
+      "databaseName": "tacos",
+      "collectionName": "recipes",
+      "id" : "{taco_id}",
+      "partitionKey": "{taco_id}",
+      "connectionStringSetting": "MyAccount_COSMOSDB",     
+      "direction": "in"
+    }]
+}
