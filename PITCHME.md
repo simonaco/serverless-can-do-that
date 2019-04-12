@@ -2,14 +2,14 @@
 @title[Serverless]
 
 @snap[west span-70]
-![Up](assets/images/svg/up_green.svg)
+![Up](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/up_green.svg)
 @snapend
 
 @snap[east span-30 template-title]
 @size[1.2em](Serverless Can <br>Do That?!)
 @snapend
 
----?image=assets/images/time_tiny.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/time_tiny.jpg&size=cover
 @title[Time]
 
 @snap[west]
@@ -26,7 +26,7 @@ Time is crucial when creating products. Your market might be time sensitive, and
 ---
 
 @snap[east span-60]
-![](assets/images/svg/what.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/what.svg)
 @snapend
 
 @snap[west span-40]
@@ -40,7 +40,7 @@ Note:
 When we incorporate serverless into our applications, we no longer need to worry about configuring servers, the platform provider will do that for us.
 
 
----?image=assets/images/anthony.jpeg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/anthony.jpeg&size=cover
 
 @snap[west text-white span-55]
 @quote[We’re working to solve the problem of self expression.](Anthony Casalena)
@@ -58,13 +58,13 @@ Anthony Casalena wants to empower every single person out there to build persona
 @snapend
 
 @snap[east span-60]
-![](assets/images/svg/savings.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/savings.svg)
 @snapend
 
 Note:
 To get started, he needed $30000. That's how much money he had spent on buying two servers that would host his first version of Squarespace. After his initial investment, he went on to first hosting his servers into his dorm room. Didn't take him long to move onwards to renting space in a data center.
 
----?image=assets/images/failure.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/failure.jpg&size=cover
 
 Note:
 And not long after that, he experienced his first outages,the panic of losing all his user data and with that his business. Eventually, he had to replace the original servers and buy new ones.
@@ -102,7 +102,7 @@ Note:
 
 Much like high-level programming languages are an abstraction of machine code, serverless is an abstraction for cloud infrastructure. When programming in a low-level language, we need to understand the memory requirements for our code to run, explicitly allocate and de-allocate it. Same with traditional applications, we need to estimate the workload at any given moment in time and provision the infrastructure required to run it. Just like how high-level programming languages abstract away the burden of configuration, enabling us to build applications faster, serverless enables us to focus on the code that's relevant to our product without having to worry about babysitting servers.
 
----?image=assets/images/important_tiny.jpg&size=contain&color=#C00108
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/important_tiny.jpg&size=contain&color=#C00108
 @snap[north-east text-white span-60]
 @quote[Get the important things right.](N. P. Calderwood)
 @snapend
@@ -111,18 +111,18 @@ Note:
 
 Serverless gives us the ability to focus on the important things right from the beginning. And, in our case, important means solving customer problems first.
 
----?image=assets/images/growth_tiny.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/growth_tiny.jpg&size=cover
 @snap[north-east]
 @css[title-red-text](Scale)
 @snapend
 
----?image=assets/images/people_tiny.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/people_tiny.jpg&size=cover
 
 Note:
 
 Every five years millions of Australians fill out a survey for the census. In 2016, the Australian government decided to run the Census online. They spent 9 million dollars on building a survey form, and told everyone to go home and fill out the form. And that's exactly what happened, everyone went back home and filled in the survey *at the same time*.
 
----?image=assets/images/people_tiny.jpg&size=cover&opacity=50
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/people_tiny.jpg&size=cover&opacity=50
 
 > @css[title-red-text](#censusfail)
 
@@ -133,7 +133,7 @@ Next thing you know, the website has crashed, and #censusfail is trending on soc
 ---
 
 @snap[east span-60]
-![](assets/images/svg/hack.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/hack.svg)
 @snapend
 
 @snap[west span-40]
@@ -148,7 +148,7 @@ The weekend after the failure, two students at a hackathon re-built the census w
 
 With serverless, we can be sure that our applications will scale automatically to meet the current workload.
 
----?image=assets/images/svg/scaling.svg
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/scaling.svg
 
 @snap[north]
 @css[small-green-text](Scale automatically </br> to meet </br> current workload)
@@ -183,7 +183,7 @@ Note:
 Finally, probably one of the most critical aspects of serverless is that you only pay for the resources you're using. Say for example in a month you have a million invocations using up to 128MB of memory and running for less than a second. That's going to cost you ZERO dollars - yes, you heard that correctly. Nowadays, you can have someone do all the hard work of spinning up and configuring servers for you, adjust depending on load, run 1 million times and you pay absolutely nothing for it. What a great time to be building applications!
 
 
----?image=assets/images/coffee.JPG&size=cover&opacity=60
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/coffee.JPG&size=cover&opacity=60
 @title[microbilling]
 
 @snap[north]
@@ -196,7 +196,7 @@ Note:
 
 Now let's increase the number of requests from one million to five million, the same amount of memory and CPU - it will now cost you less $5 - less than the cost of a Starbucks coffee! I call that a win.
 
----?image=assets/images/start_tiny.jpg&size=cover&opacity=80
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/start_tiny.jpg&size=cover&opacity=80
 @title[components]
 
 @snap[]
@@ -220,7 +220,7 @@ You might already be using some serverless components. When your application rel
 ---
 @title[cloud-functions]
 @snap[west span-70]
-![](assets/images/svg/code.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/code.svg)
 @snapend
 @snap[east span-30]
 @css[slide-green-text](Cloud Functions)
@@ -233,7 +233,7 @@ At the core of serverless computing are cloud functions. They enable us to run c
 @title[stateless-code]
 
 @snap[west span-70]
-![](assets/images/svg/empty.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/empty.svg)
 @snapend
 @snap[east span-30]
 @css[slide-green-text](Stateless)
@@ -250,14 +250,14 @@ Because your code is running in ephemeral containers and for us to be able to sc
 @snapend
 
 @snap[east span-70]
-![](assets/images/svg/broadcast.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/broadcast.svg)
 @snapend
 
 Note:
 
 Our code runs in response to specific triggers which can be of type HTTP when we react to HTTP requests, blob trigger  when we run code in response to a file being uploaded to a storage account. Other commonly used triggers can be of type queue, to process a message uploaded on a queue or time triggers to run code at specified time intervals.
 
----?image=assets/images/third_anatomy.png&size=contain
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/third_anatomy.png&size=contain
 
 Note: 
 
@@ -273,7 +273,7 @@ Managed services - data stores, authentication providers, events
 ---
 @title[tools]
 @snap[east span-70]
-![](assets/images/svg/tools.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/tools.svg)
 @snapend
 @snap[west span-30]
 @css[slide-red-text](Tools)
@@ -283,14 +283,14 @@ Note:
 
 With every new technology, we need to figure out what tools are available for us and how we can integrate them into our existing toolset. When getting started with serverless, we have a few options to consider.
 
----?image=assets/images/svg/browser.svg&color=#1F363D
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/browser.svg&color=#1F363D
 @title[browser]
 
 Note:
 
 First, we can use the good old browser to create, write and test functions. It’s powerful, and it enables us to code wherever we are; all we need is a computer and a browser running. The browser is a good starting point for writing our very first serverless function.
 
----?image=assets/images/azfunc.png&size=contain&color=#1F363D
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/azfunc.png&size=contain&color=#1F363D
 
 ---
 @title[requirements]
@@ -317,7 +317,7 @@ Note:
 
 With Azure Functions, you’ll have support for all these features when working with the Azure Functions Core Tools which you can install from npm.
 
----?image=assets/images/initcli.png&size=contain&color=#1F363D
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/initcli.png&size=contain&color=#1F363D
 @title[init]
 
 Note:
@@ -327,11 +327,11 @@ Next, we can initialize a new project and create new functions using the interac
 ---
 @title[vscode]
 @snap[west span-20]
-![VS Code](assets/images/svg/vscode.svg)
+![VS Code](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/vscode.svg)
 @snapend
 ❤️
 @snap[east span-20]
-![Azure Functions](assets/images/svg/azfunclogo.svg)
+![Azure Functions](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/azfunclogo.svg)
 @snapend
 
 Note:
@@ -384,7 +384,7 @@ A function includes the code it executes and metadata describing the event it li
 
 Here, we can see that our function is listening to HTTP requests and we get access to the actual request through the function parameter named req.
 
----?image=assets/images/binding.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/binding.jpg&size=cover
 @title[function-metadata]
 @snap[north-west]
 @css[slide-red-text](Bindings)
@@ -433,7 +433,7 @@ While this option is great when testing our own code or maybe when working on a 
 @[azure-pipelines]
 @code[yaml](src/azure-pipelines.yml)
 
----?image=assets/images/fog_tiny.jpg?size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/fog_tiny.jpg?size=cover
 @title[use-cases]
 
 @snap[north]
@@ -443,7 +443,7 @@ While this option is great when testing our own code or maybe when working on a 
 ---
 @title[webapi]
 @snap[east span-40]
-![](assets/images/svg/image_processing.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/image_processing.svg)
 @snapend
 @snap[west span-60]
 @css[slide-green-text](Web APIs)
@@ -452,7 +452,7 @@ While this option is great when testing our own code or maybe when working on a 
 ---
 @title[data]
 @snap[east span-40]
-![](assets/images/svg/upload.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/upload.svg)
 @snapend
 @snap[west span-60]
 @css[slide-green-text](Data Processing)
@@ -461,7 +461,7 @@ While this option is great when testing our own code or maybe when working on a 
 ---
 @title[integration]
 @snap[east span-40]
-![](assets/images/svg/stripe_integration.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/stripe_integration.svg)
 @snapend
 @snap[west span-60]
 @css[slide-green-text](3rd Party Integration)
@@ -470,7 +470,7 @@ While this option is great when testing our own code or maybe when working on a 
 ---
 @title[integration]
 @snap[east span-40]
-![](assets/images/svg/robot.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/robot.svg)
 @snapend
 @snap[west span-60]
 @css[slide-green-text](Chatbots)
@@ -480,7 +480,7 @@ While this option is great when testing our own code or maybe when working on a 
 @title[in-practice]
 
 @snap[west span-40]
-![](assets/images/svg/todo.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/todo.svg)
 @snapend
 @snap[north span-40]
 @css[slide-green-text](In Practice)
@@ -492,7 +492,7 @@ While this option is great when testing our own code or maybe when working on a 
 @css[small-green-text](Accelerated Developer Velocity)</br>
 @snapend
 
----?image=assets/images/time_launch.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/time_launch.jpg&size=cover
 @title[time_launch]
 @snap[west span-60]
 @css[small-red-text](spend the minimal amount of time on solving the exact problem you need to address)
@@ -502,7 +502,7 @@ Note:
 
 Remember, you want to spend the minimal amount of time on solving the exact problem you need to address. If you're in the business of configuring and managing databases or servers, by all means, you should spend all your time on that. But if you want to work out an idea and see if there's something to it with a minimum of cost and minimum of the ceremony of running servers, then Serverless might be your best choice. And of course, in a startup, the last thing you want to do is spend time on anything else than figuring out what your business is.
 
----?image=assets/images/curious.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/curious.jpg&size=cover
 @title[best_practices]
 @snap[south-east]
 @css[slide-green-text](Recommendations)
@@ -510,7 +510,7 @@ Remember, you want to spend the minimal amount of time on solving the exact prob
 
 ---
 @snap[east span-40]
-![](assets/images/svg/single_responsibility.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/single_responsibility.svg)
 @snapend
 @snap[west span-60]
 @css[slide-green-text](Single Responsibility Principle)
@@ -523,7 +523,7 @@ The same is very important in a serverless approach too. A function (app) should
 
 ---
 @snap[west span-60]
-![](assets/images/svg/server_down.svg)
+![](https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/server_down.svg)
 @snapend
 @snap[east span-40]
 @quote[A chain is only as strong as its weakest link]
@@ -532,12 +532,12 @@ The same is very important in a serverless approach too. A function (app) should
 Note: 
 Have a clear understanding how your system scales and which are your bottlenecks. There is no use for an application that can accept 500 HTTP req/sec if your database only accepts 10 connections. Otherwise your system will very quickly overload and you'll end up with very unhappy users. It is recommended that all components in your application scale at a similar pace. You can achieve that either by using managed services or having smart throttling strategies in place.
 
----?image=assets/images/nerds.jpg&size=cover
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/nerds.jpg&size=cover
 
 Note:
 Serverless enables us to solve problems creatively, and at a fraction of the cost, we usually pay for using traditional platforms. Our serverless applications truly scale with our organization by enabling us to onboard users as we grow.
 
----?image=assets/images/svg/thank_you.svg
+---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/svg/thank_you.svg
 
 Note:
 I have nothing but gratitude and hopeful feelings about how your companies and  products are going to change the world. Based on my experience using serverless I know this technology is going to serve you well in achieving your goals. I'm so excited that it is here for you to keep making the world a better place.
