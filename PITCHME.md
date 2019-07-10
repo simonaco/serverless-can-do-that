@@ -21,7 +21,7 @@
 @snapend
 
 Note:
-Time is crucial when creating products. Your market might be time sensitive, and you need to grow fast. Serverless is here to help you spend that time on things that are important instead of stuff that seems shiny but isn’t essential.
+Time is crucial when building products. Your market might be time sensitive, and you need to grow fast. Serverless is here to help you spend that time on things that are important instead of stuff that seems shiny but isn’t essential.
 
 ---
 
@@ -211,7 +211,9 @@ Now let's increase the number of requests from one million to five million, the 
 
 Note:
 
-You might already be using some serverless components. When your application relies on services like Azure Storage, Azure CosmosDB, API Management you're already benefiting from using a serverless architecture. Fully managed and highly scalable services are core tenants of any serverless system. They clear the path for us to focus on features that are truly relevant to our products by removing the need for us to learn, configure and host them.
+You might already be using some serverless components. When your application relies on services like Azure Storage, AWS S3, Netlify Authentication, Forms you're already benefiting from using a serverless architecture. Fully managed and highly scalable services are core tenants of any serverless system. They clear the path for us to focus on features that are truly relevant to our products by removing the need for us to learn, configure and host them.
+
+Sure, at some point it might make sense to build your own solutions for these. Dropbox eventually decided to move off S3 to their own custom hardware after many years of running successfully on S3. But then again it might not. Netflix is still on S3. Hit play on your favorite show using Netflix and the data comes off of a serverless data store.
 
 ---
 @title[cloud-functions]
