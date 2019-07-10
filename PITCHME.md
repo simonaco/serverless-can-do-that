@@ -307,7 +307,8 @@ Writing code in your editor of choice Tools that do the heavy lifting and genera
 ---
 @title[azure-core-tools]
 
->```npm install -g azure-functions-core-tools```
+>```npm install netlify-cli```
+>```npm install azure-functions-core-tools```
 
 Note:
 
