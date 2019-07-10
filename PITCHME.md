@@ -80,10 +80,6 @@ And not long after that, he experienced his first outages,the panic of losing al
   (<a href='https://codepen.io/sdras'>@sdras</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-@snap[]
-@size[1.2em](IaaS < CaaS < PaaS < FaaS)
-@snapend
-
 Note: 
 $30000, this was the initial cost of starting a business for Anthony and probably a lot of other entrepreneurs like him. Virtualization, also known as Infrastructure as a Service, freed the burden of that initial investment for a lot of startups.
 
