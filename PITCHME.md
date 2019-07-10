@@ -495,12 +495,12 @@ While this option is great when testing our own code or maybe when working on a 
 ---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/time_launch.jpg&size=cover
 @title[time_launch]
 @snap[west span-60]
-@css[small-red-text](spend the minimal amount of time on solving the exact problem you need to address)
+@css[small-red-text](spend the maximum amount of time on solving the exact problem you need to address)
 @snapend
 
 Note:
 
-Remember, you want to spend the minimal amount of time on solving the exact problem you need to address. If you're in the business of configuring and managing databases or servers, by all means, you should spend all your time on that. But if you want to work out an idea and see if there's something to it with a minimum of cost and minimum of the ceremony of running servers, then Serverless might be your best choice. And of course, in a startup, the last thing you want to do is spend time on anything else than figuring out what your business is.
+Remember, you want to spend the maximum amount of time on solving the exact problem you need to address. If you're in the business of configuring and managing databases or servers, by all means, you should spend all your time on that. But if you want to work out an idea and see if there's something to it with a minimum of cost and minimum of the ceremony of running servers, then Serverless might be your best choice. And of course, in a startup, the last thing you want to do is spend time on anything else than figuring out what your business is.
 
 ---?image=https://sicotinslides.blob.core.windows.net/slides/tour-assets/images/curious.jpg&size=cover
 @title[best_practices]
